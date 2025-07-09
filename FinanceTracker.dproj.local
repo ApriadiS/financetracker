@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/16 20:34:38.000.905,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/04/25 09:42:49.000.331,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/04/26 11:18:39.000.813,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/17 18:20:14.000.407,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2025/06/20 00:36:36.000.647,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/30 22:32:32.000.100,=C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/30 23:20:03.000.848,C:\Users\MSI A12VE\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\MSI A12VE\Documents\GitHub\guestbook\GuestBook.dproj</Transaction>
+    <Transaction>2025/06/30 23:24:03.000.079,=C:\Users\MSI A12VE\Documents\GitHub\guestbook\Unit1.pas</Transaction>
+    <Transaction>2025/06/30 23:26:07.000.303,C:\Users\MSI A12VE\Documents\GitHub\guestbook\GuestData.pas=C:\Users\MSI A12VE\Documents\GitHub\guestbook\Unit1.pas</Transaction>
+    <Transaction>2025/06/30 23:26:07.000.303,C:\Users\MSI A12VE\Documents\GitHub\guestbook\GuestData.dfm=C:\Users\MSI A12VE\Documents\GitHub\guestbook\Unit1.dfm</Transaction>
+    <Transaction>2025/06/30 23:44:05.000.856,=C:\Users\MSI A12VE\Documents\GitHub\guestbook\Unit1.pas</Transaction>
+    <Transaction>2025/06/30 23:44:18.000.915,C:\Users\MSI A12VE\Documents\GitHub\guestbook\GuestDataQuickReport.pas=C:\Users\MSI A12VE\Documents\GitHub\guestbook\Unit1.pas</Transaction>
+    <Transaction>2025/06/30 23:44:18.000.915,C:\Users\MSI A12VE\Documents\GitHub\guestbook\GuestDataQuickReport.dfm=C:\Users\MSI A12VE\Documents\GitHub\guestbook\Unit1.dfm</Transaction>
+    <Transaction>2025/07/08 22:25:26.566,C:\Users\MSI A12VE\Documents\GitHub\financetracker\FinanceTracker.dproj=C:\Users\MSI A12VE\Documents\GitHub\guestbook\GuestBook.dproj</Transaction>
+    <Transaction>2025/07/08 22:25:33.125,C:\Users\MSI A12VE\Documents\GitHub\guestbook\GuestData.pas=</Transaction>
+    <Transaction>2025/07/08 22:25:33.153,C:\Users\MSI A12VE\Documents\GitHub\guestbook\GuestDataQuickReport.pas=</Transaction>
+    <Transaction>2025/07/08 22:25:39.273,=C:\Users\MSI A12VE\Documents\GitHub\financetracker\GuestData.pas</Transaction>
+    <Transaction>2025/07/08 22:25:39.605,=C:\Users\MSI A12VE\Documents\GitHub\financetracker\GuestDataQuickReport.pas</Transaction>
+    <Transaction>2025/07/08 22:27:26.386,C:\Users\MSI A12VE\Documents\GitHub\financetracker\FinanceData.dfm=C:\Users\MSI A12VE\Documents\GitHub\financetracker\GuestData.dfm</Transaction>
+    <Transaction>2025/07/08 22:27:26.386,C:\Users\MSI A12VE\Documents\GitHub\financetracker\FinanceData.pas=C:\Users\MSI A12VE\Documents\GitHub\financetracker\GuestData.pas</Transaction>
+    <Transaction>2025/07/08 22:27:35.130,C:\Users\MSI A12VE\Documents\GitHub\financetracker\FinanceDataQuickReport.pas=C:\Users\MSI A12VE\Documents\GitHub\financetracker\GuestDataQuickReport.pas</Transaction>
+    <Transaction>2025/07/08 22:27:35.130,C:\Users\MSI A12VE\Documents\GitHub\financetracker\FinanceDataQuickReport.dfm=C:\Users\MSI A12VE\Documents\GitHub\financetracker\GuestDataQuickReport.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
